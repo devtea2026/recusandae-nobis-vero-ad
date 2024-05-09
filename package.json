@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/recusandae-nobis-vero-ad",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -549,5 +549,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/recusandae-nobis-vero-ad/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
